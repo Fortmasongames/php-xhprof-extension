@@ -1,0 +1,5 @@
+{
+    "name": "fortmasongames/php-xhprof-extension",
+    "description": "fork of tideways php xprof extension compatible with php 7",
+    "require": {}
+}
